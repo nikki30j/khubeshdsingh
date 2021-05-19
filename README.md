@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Kubesh Singh
+### Hi there 👋, My Name is Khubesh Singh
 #### I am web developer from India.
 
 - 🔭 I’m currently working on website development 
