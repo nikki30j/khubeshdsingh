@@ -2,7 +2,7 @@
 #### I am web developer from India.
 
 - 🔭 I’m currently working on website development 
-- 🌱 I’m currently learning DMBS,Java,Data structure,Hacking 
+- 🌱 I’m currently learning DBMS,Java,Data structure,Hacking 
 - 👯 I’m looking to collaborate on Web Projects 
 
 
